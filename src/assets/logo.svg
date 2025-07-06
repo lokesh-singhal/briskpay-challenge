@@ -1,0 +1,22 @@
+<svg width="360" height="90" viewBox="0 0 360 90" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .brisk {
+      font-family: 'Fira-Sans', sans-serif;
+      font-weight: 700;
+      font-size: 52px;
+      fill: #1e3a8a;
+      letter-spacing: 2px;
+    }
+    .pay {
+      font-family: 'Inter', sans-serif;
+      font-weight: 400;
+      font-size: 52px;
+      fill: #111827;
+      letter-spacing: 1px;
+    }
+  </style>
+
+  <text x="0" y="65" class="brisk">BRISK</text>
+  <text x="200" y="65" class="pay">PAY</text>
+</svg>
+
