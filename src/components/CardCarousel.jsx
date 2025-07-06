@@ -1,12 +1,12 @@
 import { useState, useEffect } from "react"
 
 const cards = [
-  { id: 1, image: "./public/assets/101.jpg", title: "Split the bill" },
-  { id: 2, image: "./public/assets/102.jpg", title: "Instant Payments" },
-  { id: 3, image: "./public/assets/103.jpg", title: "Gift a little extra" },
-  { id: 4, image: "./public/assets/104.jpg", title: "Risk Free" },
-  { id: 5, image: "./public/assets/105.jpg", title: "Track Expenses" },
-  { id: 6, image: "./public/assets/106.jpg", title: "One tap pay" }
+  { id: 1, image: "/assets/101.jpg", title: "Split the bill" },
+  { id: 2, image: "/assets/102.jpg", title: "Instant Payments" },
+  { id: 3, image: "/assets/103.jpg", title: "Gift a little extra" },
+  { id: 4, image: "/assets/104.jpg", title: "Risk Free" },
+  { id: 5, image: "/assets/105.jpg", title: "Track Expenses" },
+  { id: 6, image: "/assets/106.jpg", title: "One tap pay" }
 ]
 
 export default function CardCarousel() {

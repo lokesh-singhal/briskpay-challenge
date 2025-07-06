@@ -2,17 +2,17 @@ import { useState, useEffect, useRef } from "react"
 
 const slides = [
   {
-    image: "./public/assets/new1.jpg",
+    image: "/assets/new1.jpg",
     heading: "Seameless Payments, Limitless Possiblities",
     subheading: "Designed for next generation, Briskpay make managing your money effortless"
   },
   {
-    image: "./public/assets/new2.jpg",
+    image: "/assets/new2.jpg",
     heading: "Connect Effortlessly",
     subheading: "Send money to anyone, anytime"
   },
   {
-    image: "./public/assets/3.jpg",
+    image: "/assets/3.jpg",
     heading: "Secure. Simple. Seamless.",
     subheading: "Your payments, protected and powerful"
   }
