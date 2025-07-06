@@ -60,7 +60,7 @@ const Section2 = () => {
             <div className="px-4 md:mx-36">
                 <img
                     className="w-full h-[50vh] md:h-[70vh] object-cover object-center rounded-3xl"
-                    src="public/assets/pexels-ron-lach-9654034.jpg"
+                    src="/assets/pexels-ron-lach-9654034.jpg"
                     alt="BriskPay illustration"
                 />
             </div>
